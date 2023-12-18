@@ -20,8 +20,6 @@
 
 <img width="384" alt="image" src="https://github.com/Dont-HurtMe/RES-UnetClassifier/assets/154254885/59c13b44-d9ce-4515-8846-573a3df17c58">
 
-<img width="383" alt="image" src="https://github.com/Dont-HurtMe/RES-UnetClassifier/assets/154254885/2d58c1de-4f95-4a6f-8fd3-ac1f91550118">
-
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 **ResNet50 (classifier model)** 
