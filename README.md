@@ -1,3 +1,7 @@
 # **RES-Unet Classifier**
-<img width="800" alt="image" src="https://github.com/Dont-HurtMe/RES-UnetClassifier/assets/154254885/9f920462-4925-4dde-99ce-55f20f7d7d19">
+>> **work flow**
+<img width="830" alt="image" src="https://github.com/Dont-HurtMe/RES-UnetClassifier/assets/154254885/cea5eeee-2af2-4a11-b8f1-1294ecc00882">
+
+
+
 
